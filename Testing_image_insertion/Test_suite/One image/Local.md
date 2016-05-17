@@ -1,0 +1,1 @@
+![\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\009245.bmp ] (\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\009245.bmp "Test Image")

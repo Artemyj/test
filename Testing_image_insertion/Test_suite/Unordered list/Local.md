@@ -1,0 +1,4 @@
+- ![\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\microscope.png ] (\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\microscope.png "Test Image")
+- ![\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\money-bag.png  ] (\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\money-bag.png  "Test Image")
+- ![\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\mortarboard.png ] (\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\mortarboard.png "Test Image")
+- ![\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\mountain.png ] (\\tserver3\Test\Markdown_tests\Testing_image_insertion\Image\mountain.png "Test Image")

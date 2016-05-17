@@ -1,0 +1,1 @@
+    ![http://wiki.dreamsoft-sg.net/Markdown_tests/coffee-1.png](http://wiki.dreamsoft-sg.net/Markdown_tests/coffee-1.png "TestImage ")
